@@ -3,7 +3,7 @@ This project features an animated circular clock implemented using HTML, CSS, an
 
 ## Demo
 
-![时钟演示](https://blog.toolka.cn/usr/uploads/2023/07/3695682737.png){width='100px'}
+![时钟演示](https://blog.toolka.cn/usr/uploads/2023/07/3695682737.png)
 
 ## Features
 - Animated circular clock
